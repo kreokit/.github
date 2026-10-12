@@ -21,7 +21,7 @@ KreoKit is a suite of desktop apps for people who make content — videos, reels
 - **Free forever.** Dual-licensed MIT / Apache 2.0.
 - **Local first.** AI models run on your machine. Your files never leave your computer, and there are no accounts.
 - **Cross-platform.** Windows, macOS and Linux.
-- **Built for every language** — including the ones big tools ignore, like Albanian and Macedonian.
+- **English first, worldwide.** Built for creators everywhere, with 90+ languages supported through Whisper.
 
 ## How it's built
 
