@@ -14,7 +14,7 @@ KreoKit is a suite of desktop apps for people who make content — videos, reels
 | **[KreoKit Cutout](https://github.com/kreokit/cutout)** | One-click background removal for images | Paid background removers | 🧪 Alpha · [download](https://github.com/kreokit/cutout/releases) |
 | **[KreoKit Clips](https://github.com/kreokit/clips)** | Turn long videos into vertical shorts with captions | Paid clip-making tools | 🧪 Alpha · [download](https://github.com/kreokit/clips/releases) |
 | **[KreoKit Voice](https://github.com/kreokit/voice)** | Remove background noise and polish voice recordings to the right loudness | Paid noise-cancellation tools | 🧪 Alpha · [download](https://github.com/kreokit/voice/releases) |
-| **KreoKit Rec** | Screen + camera recording with a shareable file | Paid screen recorders | 📋 Planned |
+| **[KreoKit Rec](https://github.com/kreokit/rec)** | Record your screen, camera and mic, trim, add a camera bubble and export an MP4 | Paid screen recorders | 🧪 Alpha · [download](https://github.com/kreokit/rec/releases) |
 
 ## Principles
 
