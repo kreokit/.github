@@ -2,6 +2,8 @@
 
 **Free, open-source creator tools. No subscriptions. No watermarks. Everything runs on your own computer.**
 
+🌐 **Website: [kreokit.vercel.app](https://kreokit.vercel.app)**: download the apps and see how to install them.
+
 KreoKit is a suite of desktop apps for people who make content — videos, reels, podcasts, thumbnails — built as free alternatives to the paid tools creators rely on every day.
 
 > *Kreo* comes from the Albanian *krijo* — "create."
